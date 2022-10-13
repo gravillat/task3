@@ -1,0 +1,70 @@
+body {
+    background: white url("https://www.yarkiy.ru//system/uploads/preview/good/20794/Colorama-Colorgrad-G316-2.jpg") no-repeat;
+    background-size:100% 600%;
+    font-family: verdana;
+
+}
+
+#nav a{
+float: left;
+font-size: 20px;
+color: gray;
+text-align: center;
+padding: 34px 36px;
+text-decoration: none;
+margin-left: 16%;
+}
+h1{
+text-align: center;
+padding: 184px 56px;
+margin-right:30px;
+color:soft black;
+}
+#text{
+background-color:#7c8a94;
+border-radius:20px;
+color:#DCDCDC;
+font-family:"Lucida Console", "Courier New", monospace;
+font-size:25px;
+margin-top:-50%;
+text-align:justify;
+text-align:right;
+word-wrap: normal;
+}
+#text2{
+color:#7c8a94;
+text-align: center;
+margin-top:20%;
+font-size:50px;
+}
+#img1{
+width:40%;
+height:40%
+margin-right:-10%;
+margin-bottom:30%;
+}
+#img2{
+width:40%;
+height:40%;
+margin-right:-70%;
+margin-top:10%;
+}
+#img3{
+width:40%;
+height:40%;
+margin-right:100px;
+margin-bottom:-3%;
+}
+#img4{
+margin-right:-90px;
+margin-top:-80%;
+}
+
+
+#btn{
+  border-radius: 5px;
+  background: #7c8a94;
+  color: #fff;
+  padding: 8px 16px;
+  font-size: 16px;
+}
